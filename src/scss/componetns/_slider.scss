@@ -1,0 +1,12 @@
+.slider {
+    .product-info {
+        display: flex;
+        align-items: flex-end;
+        font-weight: 800;
+    }
+
+    .product-info__price {
+        font-size: rem(32px);
+        color: $red;
+    }
+}
